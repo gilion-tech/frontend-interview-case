@@ -1,4 +1,4 @@
-# Welcome to ArK's React Front-end Coding Challenge
+# Welcome to this ArK Coding Challenge
 
 The aim of this case is to simulate a code review and to discuss some code in an informal setting, not to test specific technologies or syntaxes.
 
@@ -6,11 +6,11 @@ The aim of this case is to simulate a code review and to discuss some code in an
 
 The `server.js` file includes two endpoints `/ads-spend-data` and `/purchase-data` which queries BigQuery and returns some stats.
 
-Create React components that fetches the data and visualizes it. One of the endpoints returns a bigger data set: feel free to optimize the data fetching to make this visualization more responsive.
+Create React components that fetches the data and visualizes it in a snappy and responsive way.
 
 To get you started, the `AdsSpendGraph.jsx` file includes a shell of an example React component which fetches data from the server.
 
-Please spend a couple of hours to show off your skills by building some useful functionality for browsing this data. Try to come up with ways of making the data interesting to the user of the website.
+Please spend 2-3 hours to show off your skills by building useful functionality for browsing the data. Try to come up with ways of making the data interesting to the user of the website.
 
 You're allowed to install any node packages you want.
 
