@@ -1,5 +1,5 @@
-import React from 'react';
-import request from 'request';
+import React from "react";
+import request from "request";
 
 class AdsSpendGraph extends React.Component {
   constructor() {
@@ -12,10 +12,10 @@ class AdsSpendGraph extends React.Component {
 
   componentDidMount() {
     const options = {
-      url: 'http://localhost:5000/ads-spend-data',
+      url: "http://localhost:5001/ads-spend-data",
       headers: {
-        'Content-Type': 'application/json',
-      }
+        "Content-Type": "application/json",
+      },
     };
 
     if (this.state.data == null) {
@@ -44,13 +44,11 @@ class AdsSpendGraph extends React.Component {
 
     return (
       <div>
-        <strong>
-          AdsSpendGraph
-        </strong>
+        <strong>AdsSpendGraph</strong>
 
         {loading && <div className="App-logo">Loading</div>}
 
-        {data != null && data.slice(0, 10).map(item => JSON.stringify(item))}
+        {data != null && data.slice(0, 10).map((item) => JSON.stringify(item))}
       </div>
     );
   }
