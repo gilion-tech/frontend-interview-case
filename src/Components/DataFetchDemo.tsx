@@ -2,12 +2,12 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 
 export const DataFetchDemo = () => {
-  const [data, setData] = useState(null);
+  const [data, setData] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     axios
-      .get<string>("http://localhost:5001/ads-spend-data", {
+      .get<string[]>("http://localhost:5001/ads-spend-data", {
         headers: { "Content-Type": "application/json" },
       })
       .then((response) => {
@@ -24,7 +24,8 @@ export const DataFetchDemo = () => {
       {loading && <div>Loading</div>}
 
       <pre>
-        {data != null && data.slice(0, 10).map((item) => JSON.stringify(item))}
+        {data != null &&
+          data.slice(0, 10).map((item: string) => JSON.stringify(item))}
       </pre>
     </div>
   );

@@ -37,6 +37,8 @@ yarn server
 yarn dev
 ```
 
+If you rather want to use npm you can run `npm install` and then `npm run server` and `npm run dev`.
+
 You're good to go!
 
 When you're done, submit your github repo via email to ArK.
