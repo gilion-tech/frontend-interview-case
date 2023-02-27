@@ -1,28 +1,12 @@
-import React, { ReactElement } from "react";
-import logo from "./logo.svg";
+import { DataFetchDemo } from "./Components/DataFetchDemo";
 import "./App.css";
+import { LineChartExample } from "./Components/LineChartExample";
 
-import AdsSpendGraph from "./AdsSpendGraph";
-
-function App(): ReactElement {
+function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.ts</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-
-      <AdsSpendGraph />
+      <DataFetchDemo />
+      <LineChartExample />
     </div>
   );
 }
