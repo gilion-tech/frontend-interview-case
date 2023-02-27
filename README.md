@@ -4,7 +4,7 @@ The aim of this case is to simulate a code review and to discuss some code in an
 
 ## The Case
 
-There's two components to the case, one is the server, which you shouldn't have to do anything with, and the other one is the client which is a (Vite)[https://vitejs.dev/] project. The client is very bare-bones, by design, we leave it up to you how you want to build it.
+There's two components to the case, one is the server, which you shouldn't have to do anything with, and the other one is the client which is a [Vite](https://vitejs.dev/) project. The client is very bare-bones, by design, we leave it up to you how you want to build it.
 
 The server has two endpoints, `/ads-spend-data` and `/purchase-data`, which queries BigQuery and returns some data.
 
