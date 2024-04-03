@@ -1,5 +1,5 @@
 import express from "express";
-import { getAdsSpend, getPurchases } from "./BigQueryClient.js";
+import data from "./data.json" assert { type: "json" };
 
 const app = express();
 const port = 5001;
@@ -37,20 +37,7 @@ app.listen(port, () => {
   console.log(`Server app listening at http://localhost:${port}`);
 });
 
-app.get("/ads-spend-data", (req, res) => {
-  console.log("Fetching ads spend data from BigQuery");
-  const resultPromise = getAdsSpend();
-  resultPromise.then((result) => {
-    console.log("Done fetching data");
-    res.send(result);
-  });
-});
-
-app.get("/purchase-data", (req, res) => {
-  console.log("Fetching data from BigQuery");
-  const resultPromise = getPurchases();
-  resultPromise.then((result) => {
-    console.log("Done fetching data");
-    res.send(result);
-  });
+app.get("/marketing-vs-new-customer-data", (req, res) => {
+  console.log("Done fetching data");
+  res.send(data);
 });

@@ -7,7 +7,7 @@ export const DataFetchDemo = () => {
 
   useEffect(() => {
     axios
-      .get<string[]>("http://localhost:5001/ads-spend-data", {
+      .get<string[]>("http://localhost:5001/marketing-vs-new-customer-data", {
         headers: { "Content-Type": "application/json" },
       })
       .then((response) => {

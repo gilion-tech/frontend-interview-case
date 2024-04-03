@@ -1,0 +1,1682 @@
+[
+  {
+    "is_forecast": false,
+    "month": "2022-01-01",
+    "country_code": "AT",
+    "new_customers": 189,
+    "marketing_spend": 1783.5994917986166
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-01-01",
+    "country_code": "DE",
+    "new_customers": 3147,
+    "marketing_spend": 36186.941099468037
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-01-01",
+    "country_code": "GB",
+    "new_customers": 17546,
+    "marketing_spend": 226317.79681985718
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-01-01",
+    "country_code": "NO",
+    "new_customers": 2702,
+    "marketing_spend": 10697.417957390255
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-01-01",
+    "country_code": "SE",
+    "new_customers": 6292,
+    "marketing_spend": 25833.88819786999
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-02-01",
+    "country_code": "AT",
+    "new_customers": 609,
+    "marketing_spend": 3472.5706011289849
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-02-01",
+    "country_code": "DE",
+    "new_customers": 8662,
+    "marketing_spend": 53473.196053177322
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-02-01",
+    "country_code": "GB",
+    "new_customers": 13362,
+    "marketing_spend": 147072.15495642525
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-02-01",
+    "country_code": "NO",
+    "new_customers": 3972,
+    "marketing_spend": 35529.284231063808
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-02-01",
+    "country_code": "SE",
+    "new_customers": 5590,
+    "marketing_spend": 40203.938999235659
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-03-01",
+    "country_code": "AT",
+    "new_customers": 827,
+    "marketing_spend": 5505.8469555093488
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-03-01",
+    "country_code": "DE",
+    "new_customers": 12724,
+    "marketing_spend": 95196.318019736515
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-03-01",
+    "country_code": "GB",
+    "new_customers": 11608,
+    "marketing_spend": 109629.5999507005
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-03-01",
+    "country_code": "NO",
+    "new_customers": 2753,
+    "marketing_spend": 38941.56833300244
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-03-01",
+    "country_code": "SE",
+    "new_customers": 3996,
+    "marketing_spend": 44814.994322330938
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-04-01",
+    "country_code": "AT",
+    "new_customers": 817,
+    "marketing_spend": 8904.3615815905614
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-04-01",
+    "country_code": "DE",
+    "new_customers": 12409,
+    "marketing_spend": 112462.59538841907
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-04-01",
+    "country_code": "GB",
+    "new_customers": 8626,
+    "marketing_spend": 134544.41494570597
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-04-01",
+    "country_code": "NO",
+    "new_customers": 1696,
+    "marketing_spend": 35448.839796793451
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-04-01",
+    "country_code": "SE",
+    "new_customers": 4048,
+    "marketing_spend": 66593.487356670768
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-05-01",
+    "country_code": "AT",
+    "new_customers": 1628,
+    "marketing_spend": 11814.29121085931
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-05-01",
+    "country_code": "DE",
+    "new_customers": 28173,
+    "marketing_spend": 143700.32490913037
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-05-01",
+    "country_code": "GB",
+    "new_customers": 9684,
+    "marketing_spend": 97619.23386459559
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-05-01",
+    "country_code": "NO",
+    "new_customers": 1381,
+    "marketing_spend": 16089.914028692061
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-05-01",
+    "country_code": "SE",
+    "new_customers": 4315,
+    "marketing_spend": 42562.876441832072
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-06-01",
+    "country_code": "AT",
+    "new_customers": 1834,
+    "marketing_spend": 6197.1671287057234
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-06-01",
+    "country_code": "DE",
+    "new_customers": 33898,
+    "marketing_spend": 96100.809482522614
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-06-01",
+    "country_code": "GB",
+    "new_customers": 14804,
+    "marketing_spend": 103304.87224025441
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-06-01",
+    "country_code": "NO",
+    "new_customers": 3486,
+    "marketing_spend": 30397.409578565395
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-06-01",
+    "country_code": "SE",
+    "new_customers": 8348,
+    "marketing_spend": 47919.712229198383
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-07-01",
+    "country_code": "AT",
+    "new_customers": 2333,
+    "marketing_spend": 6761.22031042499
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-07-01",
+    "country_code": "DE",
+    "new_customers": 41468,
+    "marketing_spend": 180075.73077065367
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-07-01",
+    "country_code": "GB",
+    "new_customers": 14608,
+    "marketing_spend": 167926.78344047151
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-07-01",
+    "country_code": "NO",
+    "new_customers": 2635,
+    "marketing_spend": 34814.000140144104
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-07-01",
+    "country_code": "SE",
+    "new_customers": 6640,
+    "marketing_spend": 65771.430127490821
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-08-01",
+    "country_code": "AT",
+    "new_customers": 3160,
+    "marketing_spend": 8500.0165624670553
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-08-01",
+    "country_code": "DE",
+    "new_customers": 46264,
+    "marketing_spend": 148037.66584716737
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-08-01",
+    "country_code": "GB",
+    "new_customers": 13522,
+    "marketing_spend": 124288.25497293005
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-08-01",
+    "country_code": "NO",
+    "new_customers": 1883,
+    "marketing_spend": 28655.175264713231
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-08-01",
+    "country_code": "SE",
+    "new_customers": 6553,
+    "marketing_spend": 50322.76631790289
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-09-01",
+    "country_code": "AT",
+    "new_customers": 3855,
+    "marketing_spend": 8864.1597553221654
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-09-01",
+    "country_code": "DE",
+    "new_customers": 53562,
+    "marketing_spend": 110482.45187789905
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-09-01",
+    "country_code": "GB",
+    "new_customers": 12963,
+    "marketing_spend": 66087.96587886558
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-09-01",
+    "country_code": "NO",
+    "new_customers": 1149,
+    "marketing_spend": 7968.9401821854462
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-09-01",
+    "country_code": "SE",
+    "new_customers": 4454,
+    "marketing_spend": 15419.665369670527
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-10-01",
+    "country_code": "AT",
+    "new_customers": 4009,
+    "marketing_spend": 15781.159934447112
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-10-01",
+    "country_code": "DE",
+    "new_customers": 52459,
+    "marketing_spend": 146234.28707314984
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-10-01",
+    "country_code": "GB",
+    "new_customers": 10556,
+    "marketing_spend": 38786.135107040034
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-10-01",
+    "country_code": "NO",
+    "new_customers": 1274,
+    "marketing_spend": 4929.047164194244
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-10-01",
+    "country_code": "SE",
+    "new_customers": 3910,
+    "marketing_spend": 18823.565114024645
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-11-01",
+    "country_code": "AT",
+    "new_customers": 3913,
+    "marketing_spend": 18039.354666572141
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-11-01",
+    "country_code": "DE",
+    "new_customers": 42847,
+    "marketing_spend": 158138.6774192013
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-11-01",
+    "country_code": "GB",
+    "new_customers": 7924,
+    "marketing_spend": 73201.31806688763
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-11-01",
+    "country_code": "NO",
+    "new_customers": 1646,
+    "marketing_spend": 15498.85877674561
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-11-01",
+    "country_code": "SE",
+    "new_customers": 4071,
+    "marketing_spend": 27607.743109046
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-12-01",
+    "country_code": "AT",
+    "new_customers": 3631,
+    "marketing_spend": 17276.404802355613
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-12-01",
+    "country_code": "DE",
+    "new_customers": 43000,
+    "marketing_spend": 166486.24930649402
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-12-01",
+    "country_code": "GB",
+    "new_customers": 9519,
+    "marketing_spend": 87218.815966600218
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-12-01",
+    "country_code": "NO",
+    "new_customers": 1725,
+    "marketing_spend": 17075.144216784738
+  },
+  {
+    "is_forecast": false,
+    "month": "2022-12-01",
+    "country_code": "SE",
+    "new_customers": 5147,
+    "marketing_spend": 36690.772908482781
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-01-01",
+    "country_code": "AT",
+    "new_customers": 2357,
+    "marketing_spend": 12934.76063016944
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-01-01",
+    "country_code": "DE",
+    "new_customers": 27936,
+    "marketing_spend": 148790.43722676302
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-01-01",
+    "country_code": "GB",
+    "new_customers": 11833,
+    "marketing_spend": 70725.796652439152
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-01-01",
+    "country_code": "NO",
+    "new_customers": 1249,
+    "marketing_spend": 8304.7907199706569
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-01-01",
+    "country_code": "SE",
+    "new_customers": 4707,
+    "marketing_spend": 28743.275104195269
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-02-01",
+    "country_code": "AT",
+    "new_customers": 1656,
+    "marketing_spend": 1940.8929603779404
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-02-01",
+    "country_code": "DE",
+    "new_customers": 19077,
+    "marketing_spend": 14386.356638701152
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-02-01",
+    "country_code": "GB",
+    "new_customers": 6673,
+    "marketing_spend": 22119.592390985985
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-02-01",
+    "country_code": "NO",
+    "new_customers": 640,
+    "marketing_spend": 1486.0768138157443
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-02-01",
+    "country_code": "SE",
+    "new_customers": 2473,
+    "marketing_spend": 2881.3006009140854
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-03-01",
+    "country_code": "AT",
+    "new_customers": 1600,
+    "marketing_spend": 1124.4105217386384
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-03-01",
+    "country_code": "DE",
+    "new_customers": 18586,
+    "marketing_spend": 11389.756198110261
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-03-01",
+    "country_code": "GB",
+    "new_customers": 8723,
+    "marketing_spend": 38381.852566172238
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-03-01",
+    "country_code": "NO",
+    "new_customers": 628,
+    "marketing_spend": 1930.8615229166267
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-03-01",
+    "country_code": "SE",
+    "new_customers": 2492,
+    "marketing_spend": 2823.511800947475
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-04-01",
+    "country_code": "AT",
+    "new_customers": 1220,
+    "marketing_spend": 1084.021070585809
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-04-01",
+    "country_code": "DE",
+    "new_customers": 12848,
+    "marketing_spend": 12542.121167833231
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-04-01",
+    "country_code": "GB",
+    "new_customers": 9753,
+    "marketing_spend": 42148.394189260056
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-04-01",
+    "country_code": "NO",
+    "new_customers": 467,
+    "marketing_spend": 1521.1247239682145
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-04-01",
+    "country_code": "SE",
+    "new_customers": 2257,
+    "marketing_spend": 3632.466256342374
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-05-01",
+    "country_code": "AT",
+    "new_customers": 1211,
+    "marketing_spend": 1427.9372204173321
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-05-01",
+    "country_code": "DE",
+    "new_customers": 13596,
+    "marketing_spend": 24686.239391010738
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-05-01",
+    "country_code": "GB",
+    "new_customers": 9086,
+    "marketing_spend": 53524.158577696959
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-05-01",
+    "country_code": "NO",
+    "new_customers": 448,
+    "marketing_spend": 1652.9239224146947
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-05-01",
+    "country_code": "SE",
+    "new_customers": 2442,
+    "marketing_spend": 10040.580954891095
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-06-01",
+    "country_code": "AT",
+    "new_customers": 1362,
+    "marketing_spend": 4836.8162092311532
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-06-01",
+    "country_code": "DE",
+    "new_customers": 15100,
+    "marketing_spend": 34793.010850842089
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-06-01",
+    "country_code": "GB",
+    "new_customers": 11977,
+    "marketing_spend": 64935.849435264921
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-06-01",
+    "country_code": "NO",
+    "new_customers": 852,
+    "marketing_spend": 6146.6964487397381
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-06-01",
+    "country_code": "SE",
+    "new_customers": 4288,
+    "marketing_spend": 24535.676475818145
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-07-01",
+    "country_code": "AT",
+    "new_customers": 1724,
+    "marketing_spend": 2294.8944580606108
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-07-01",
+    "country_code": "DE",
+    "new_customers": 20273,
+    "marketing_spend": 27780.381048460844
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-07-01",
+    "country_code": "GB",
+    "new_customers": 10881,
+    "marketing_spend": 57513.400584331219
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-07-01",
+    "country_code": "NO",
+    "new_customers": 682,
+    "marketing_spend": 3868.5614697701831
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-07-01",
+    "country_code": "SE",
+    "new_customers": 5683,
+    "marketing_spend": 23887.394774505014
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-08-01",
+    "country_code": "AT",
+    "new_customers": 1694,
+    "marketing_spend": 1667.0945966977802
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-08-01",
+    "country_code": "DE",
+    "new_customers": 19205,
+    "marketing_spend": 19958.50311591772
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-08-01",
+    "country_code": "GB",
+    "new_customers": 13528,
+    "marketing_spend": 46210.605121972672
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-08-01",
+    "country_code": "NO",
+    "new_customers": 1253,
+    "marketing_spend": 445.57705888553272
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-08-01",
+    "country_code": "SE",
+    "new_customers": 4950,
+    "marketing_spend": 13390.460413240766
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-09-01",
+    "country_code": "AT",
+    "new_customers": 1901,
+    "marketing_spend": 1406.4199497395432
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-09-01",
+    "country_code": "DE",
+    "new_customers": 20542,
+    "marketing_spend": 20289.273337965064
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-09-01",
+    "country_code": "GB",
+    "new_customers": 11187,
+    "marketing_spend": 47668.711211008405
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-09-01",
+    "country_code": "NO",
+    "new_customers": 1594,
+    "marketing_spend": 555.92054734092335
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-09-01",
+    "country_code": "SE",
+    "new_customers": 5473,
+    "marketing_spend": 13167.125874785586
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-10-01",
+    "country_code": "AT",
+    "new_customers": 2806,
+    "marketing_spend": 2427.9849964205027
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-10-01",
+    "country_code": "DE",
+    "new_customers": 28290,
+    "marketing_spend": 28420.843724580795
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-10-01",
+    "country_code": "GB",
+    "new_customers": 18533,
+    "marketing_spend": 61624.408254030954
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-10-01",
+    "country_code": "NO",
+    "new_customers": 1586,
+    "marketing_spend": 1641.8969922445006
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-10-01",
+    "country_code": "SE",
+    "new_customers": 7416,
+    "marketing_spend": 13897.524379771261
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-11-01",
+    "country_code": "AT",
+    "new_customers": 2586,
+    "marketing_spend": 2286.2135504433932
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-11-01",
+    "country_code": "DE",
+    "new_customers": 28618,
+    "marketing_spend": 34540.0890341694
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-11-01",
+    "country_code": "GB",
+    "new_customers": 19952,
+    "marketing_spend": 87937.659408953768
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-11-01",
+    "country_code": "NO",
+    "new_customers": 1992,
+    "marketing_spend": 1535.1296187455875
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-11-01",
+    "country_code": "SE",
+    "new_customers": 9104,
+    "marketing_spend": 16848.645143391175
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-12-01",
+    "country_code": "AT",
+    "new_customers": 3426,
+    "marketing_spend": 1780.9587010511161
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-12-01",
+    "country_code": "DE",
+    "new_customers": 28395,
+    "marketing_spend": 19271.626168040715
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-12-01",
+    "country_code": "GB",
+    "new_customers": 18345,
+    "marketing_spend": 48270.023217089525
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-12-01",
+    "country_code": "NO",
+    "new_customers": 1857,
+    "marketing_spend": 973.7593551486633
+  },
+  {
+    "is_forecast": false,
+    "month": "2023-12-01",
+    "country_code": "SE",
+    "new_customers": 9740,
+    "marketing_spend": 13429.292929446476
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-01-01",
+    "country_code": "AT",
+    "new_customers": 1814,
+    "marketing_spend": 512.47795216040049
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-01-01",
+    "country_code": "DE",
+    "new_customers": 16752,
+    "marketing_spend": 5214.99150325633
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-01-01",
+    "country_code": "GB",
+    "new_customers": 9578,
+    "marketing_spend": 19396.753591467714
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-01-01",
+    "country_code": "NO",
+    "new_customers": 1089,
+    "marketing_spend": 461.24932791682141
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-01-01",
+    "country_code": "SE",
+    "new_customers": 3910,
+    "marketing_spend": 1717.1732300084143
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-02-01",
+    "country_code": "AT",
+    "new_customers": 1330,
+    "marketing_spend": 201.93796557403064
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-02-01",
+    "country_code": "DE",
+    "new_customers": 12797,
+    "marketing_spend": 5797.5404866602421
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-02-01",
+    "country_code": "GB",
+    "new_customers": 10101,
+    "marketing_spend": 17081.589831155041
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-02-01",
+    "country_code": "NO",
+    "new_customers": 1404,
+    "marketing_spend": 224.95663764658897
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-02-01",
+    "country_code": "SE",
+    "new_customers": 4045,
+    "marketing_spend": 3601.8764192686822
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-03-01",
+    "country_code": "AT",
+    "new_customers": 986,
+    "marketing_spend": 0.053178356898391219
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-03-01",
+    "country_code": "DE",
+    "new_customers": 11088,
+    "marketing_spend": 4935.8063565261355
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-03-01",
+    "country_code": "GB",
+    "new_customers": 11024,
+    "marketing_spend": 18637.757693499876
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-03-01",
+    "country_code": "NO",
+    "new_customers": 836,
+    "marketing_spend": 0.275273883309181
+  },
+  {
+    "is_forecast": false,
+    "month": "2024-03-01",
+    "country_code": "SE",
+    "new_customers": 4827,
+    "marketing_spend": 3332.5368797913179
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-04-01",
+    "country_code": "AT",
+    "new_customers": 2073.8915252968145,
+    "marketing_spend": 83.987340555225032
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-04-01",
+    "country_code": "DE",
+    "new_customers": 18279.675511037112,
+    "marketing_spend": 4549.5989550971308
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-04-01",
+    "country_code": "GB",
+    "new_customers": 11992.60073864635,
+    "marketing_spend": 15372.11195207048
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-04-01",
+    "country_code": "NO",
+    "new_customers": 1366.3511641389746,
+    "marketing_spend": 93.65078532370913
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-04-01",
+    "country_code": "SE",
+    "new_customers": 5624.4168990272547,
+    "marketing_spend": 3083.1608231536607
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-05-01",
+    "country_code": "AT",
+    "new_customers": 1742.0358326452279,
+    "marketing_spend": 47.9407999402409
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-05-01",
+    "country_code": "DE",
+    "new_customers": 15354.636132570449,
+    "marketing_spend": 2596.9558253987525
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-05-01",
+    "country_code": "GB",
+    "new_customers": 10073.593511762665,
+    "marketing_spend": 8774.5526752168262
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-05-01",
+    "country_code": "NO",
+    "new_customers": 1147.7132043181266,
+    "marketing_spend": 53.456789246686917
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-05-01",
+    "country_code": "SE",
+    "new_customers": 4724.4205670007541,
+    "marketing_spend": 1759.8985183869179
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-06-01",
+    "country_code": "AT",
+    "new_customers": 2463.9712768129566,
+    "marketing_spend": 39.973272225062814
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-06-01",
+    "country_code": "DE",
+    "new_customers": 21717.91285091946,
+    "marketing_spend": 2165.3544015645684
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-06-01",
+    "country_code": "GB",
+    "new_customers": 14248.297653890728,
+    "marketing_spend": 7316.26470932502
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-06-01",
+    "country_code": "NO",
+    "new_customers": 1623.3491392451419,
+    "marketing_spend": 44.572530944398977
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-06-01",
+    "country_code": "SE",
+    "new_customers": 6682.3175267284769,
+    "marketing_spend": 1467.4119466436982
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-07-01",
+    "country_code": "AT",
+    "new_customers": 2414.664511163,
+    "marketing_spend": 46.792430679897151
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-07-01",
+    "country_code": "DE",
+    "new_customers": 21283.313612923652,
+    "marketing_spend": 2534.7485980667925
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-07-01",
+    "country_code": "GB",
+    "new_customers": 13963.173602347424,
+    "marketing_spend": 8564.3678936102133
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-07-01",
+    "country_code": "NO",
+    "new_customers": 1590.8641438517093,
+    "marketing_spend": 52.1762905148324
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-07-01",
+    "country_code": "SE",
+    "new_customers": 6548.5970295012639,
+    "marketing_spend": 1717.7420803975797
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-08-01",
+    "country_code": "AT",
+    "new_customers": 2574.3866096220254,
+    "marketing_spend": 35.782179373583126
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-08-01",
+    "country_code": "DE",
+    "new_customers": 22691.134656676193,
+    "marketing_spend": 1938.3226664036108
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-08-01",
+    "country_code": "GB",
+    "new_customers": 14886.791512249301,
+    "marketing_spend": 6549.1735252422777
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-08-01",
+    "country_code": "NO",
+    "new_customers": 1696.094563334221,
+    "marketing_spend": 39.899217867560047
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-08-01",
+    "country_code": "SE",
+    "new_customers": 6981.7651382298382,
+    "marketing_spend": 1313.5576490738774
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-09-01",
+    "country_code": "AT",
+    "new_customers": 2858.2159463497683,
+    "marketing_spend": 25.256464877681481
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-09-01",
+    "country_code": "DE",
+    "new_customers": 25192.860572718724,
+    "marketing_spend": 1368.1441209748898
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-09-01",
+    "country_code": "GB",
+    "new_customers": 16528.0788562455,
+    "marketing_spend": 4622.6634043492422
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-09-01",
+    "country_code": "NO",
+    "new_customers": 1883.0911057880219,
+    "marketing_spend": 28.162432036293335
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-09-01",
+    "country_code": "SE",
+    "new_customers": 7751.51345845731,
+    "marketing_spend": 927.16048070389252
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-10-01",
+    "country_code": "AT",
+    "new_customers": 3157.5589202448004,
+    "marketing_spend": 23.700998289054226
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-10-01",
+    "country_code": "DE",
+    "new_customers": 27831.326646071764,
+    "marketing_spend": 1283.884408504844
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-10-01",
+    "country_code": "GB",
+    "new_customers": 18259.076223298423,
+    "marketing_spend": 4337.9680397858056
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-10-01",
+    "country_code": "NO",
+    "new_customers": 2080.3085667156192,
+    "marketing_spend": 26.427996029548378
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-10-01",
+    "country_code": "SE",
+    "new_customers": 8563.3349353493231,
+    "marketing_spend": 870.05956982760824
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-11-01",
+    "country_code": "AT",
+    "new_customers": 3057.0577043234384,
+    "marketing_spend": 25.128686459156093
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-11-01",
+    "country_code": "DE",
+    "new_customers": 26945.489757739706,
+    "marketing_spend": 1361.2223568665856
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-11-01",
+    "country_code": "GB",
+    "new_customers": 17677.91228989507,
+    "marketing_spend": 4599.2762588384348
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-11-01",
+    "country_code": "NO",
+    "new_customers": 2014.0949042860561,
+    "marketing_spend": 28.019951643853048
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-11-01",
+    "country_code": "SE",
+    "new_customers": 8290.774519191591,
+    "marketing_spend": 922.46975694198261
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-12-01",
+    "country_code": "AT",
+    "new_customers": 3054.9284145442225,
+    "marketing_spend": 22.642375038853064
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-12-01",
+    "country_code": "DE",
+    "new_customers": 26926.721791451084,
+    "marketing_spend": 1226.5387275829698
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-12-01",
+    "country_code": "GB",
+    "new_customers": 17665.59934012526,
+    "marketing_spend": 4144.2093731870382
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-12-01",
+    "country_code": "NO",
+    "new_customers": 2012.692054844254,
+    "marketing_spend": 25.247569335621957
+  },
+  {
+    "is_forecast": true,
+    "month": "2024-12-01",
+    "country_code": "SE",
+    "new_customers": 8284.9998616113553,
+    "marketing_spend": 831.197692431292
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-01-01",
+    "country_code": "AT",
+    "new_customers": 2264.6527761259649,
+    "marketing_spend": 17.98101571263647
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-01-01",
+    "country_code": "DE",
+    "new_customers": 19961.081564681775,
+    "marketing_spend": 974.032631072596
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-01-01",
+    "country_code": "GB",
+    "new_customers": 13095.707381252145,
+    "marketing_spend": 3291.0458257079604
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-01-01",
+    "country_code": "NO",
+    "new_customers": 1492.0312462279894,
+    "marketing_spend": 20.049881699720007
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-01-01",
+    "country_code": "SE",
+    "new_customers": 6141.7635344495175,
+    "marketing_spend": 660.07999347542432
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-02-01",
+    "country_code": "AT",
+    "new_customers": 1808.8828682445376,
+    "marketing_spend": 9.67970615521404
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-02-01",
+    "country_code": "DE",
+    "new_customers": 15943.838655810065,
+    "marketing_spend": 524.35022609689372
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-02-01",
+    "country_code": "GB",
+    "new_customers": 10460.146906058382,
+    "marketing_spend": 1771.66613084094
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-02-01",
+    "country_code": "NO",
+    "new_customers": 1191.7543336618055,
+    "marketing_spend": 10.793437167384386
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-02-01",
+    "country_code": "SE",
+    "new_customers": 4905.7104715538981,
+    "marketing_spend": 355.34034772504305
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-03-01",
+    "country_code": "AT",
+    "new_customers": 1962.0938148445339,
+    "marketing_spend": 9.3303447721863613
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-03-01",
+    "country_code": "DE",
+    "new_customers": 17294.269165036403,
+    "marketing_spend": 505.42530035610469
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-03-01",
+    "country_code": "GB",
+    "new_customers": 11346.113066270573,
+    "marketing_spend": 1707.7228953946365
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-03-01",
+    "country_code": "NO",
+    "new_customers": 1292.6949820478287,
+    "marketing_spend": 10.403878840307629
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-03-01",
+    "country_code": "SE",
+    "new_customers": 5321.2202639716343,
+    "marketing_spend": 342.51535145592726
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-04-01",
+    "country_code": "AT",
+    "new_customers": 2103.762593051064,
+    "marketing_spend": 8.9370595577905778
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-04-01",
+    "country_code": "DE",
+    "new_customers": 18542.964800305861,
+    "marketing_spend": 484.12101820308567
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-04-01",
+    "country_code": "GB",
+    "new_customers": 12165.334840138228,
+    "marketing_spend": 1635.7403286789925
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-04-01",
+    "country_code": "NO",
+    "new_customers": 1386.0312523703255,
+    "marketing_spend": 9.9653428783295261
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-04-01",
+    "country_code": "SE",
+    "new_customers": 5705.4275672419035,
+    "marketing_spend": 328.0779188936549
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-05-01",
+    "country_code": "AT",
+    "new_customers": 1774.3224253424573,
+    "marketing_spend": 5.0880947311177405
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-05-01",
+    "country_code": "DE",
+    "new_customers": 15639.216319462294,
+    "marketing_spend": 275.62237736182669
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-05-01",
+    "country_code": "GB",
+    "new_customers": 10260.295762437881,
+    "marketing_spend": 931.26846632383251
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-05-01",
+    "country_code": "NO",
+    "new_customers": 1168.9847235754453,
+    "marketing_spend": 5.6735225120895727
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-05-01",
+    "country_code": "SE",
+    "new_customers": 4811.9821657455668,
+    "marketing_spend": 186.78308225704171
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-06-01",
+    "country_code": "AT",
+    "new_customers": 2515.4261800486429,
+    "marketing_spend": 4.1785572125721009
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-06-01",
+    "country_code": "DE",
+    "new_customers": 22171.446183365835,
+    "marketing_spend": 226.35267889725924
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-06-01",
+    "country_code": "GB",
+    "new_customers": 14545.843645580402,
+    "marketing_spend": 764.796799674279
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-06-01",
+    "country_code": "NO",
+    "new_customers": 1657.2494016644482,
+    "marketing_spend": 4.6593351080108825
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-06-01",
+    "country_code": "SE",
+    "new_customers": 6821.8637969969695,
+    "marketing_spend": 153.39411642207278
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-07-01",
+    "country_code": "AT",
+    "new_customers": 2453.7554232700359,
+    "marketing_spend": 4.9581888542921035
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-07-01",
+    "country_code": "DE",
+    "new_customers": 21627.868369057687,
+    "marketing_spend": 268.58536871790761
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-07-01",
+    "country_code": "GB",
+    "new_customers": 14189.222889733419,
+    "marketing_spend": 907.49193442516491
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-07-01",
+    "country_code": "NO",
+    "new_customers": 1616.618583085004,
+    "marketing_spend": 5.5286698795087572
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-07-01",
+    "country_code": "SE",
+    "new_customers": 6654.6120182175782,
+    "marketing_spend": 182.01425986692362
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-08-01",
+    "country_code": "AT",
+    "new_customers": 2623.7854019180704,
+    "marketing_spend": 3.7943382435481245
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-08-01",
+    "country_code": "DE",
+    "new_customers": 23126.545035085248,
+    "marketing_spend": 205.53951576524443
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-08-01",
+    "country_code": "GB",
+    "new_customers": 15172.447722206085,
+    "marketing_spend": 694.4736180268967
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-08-01",
+    "country_code": "NO",
+    "new_customers": 1728.6401890516026,
+    "marketing_spend": 4.2309085386316392
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-08-01",
+    "country_code": "SE",
+    "new_customers": 7115.7352127454988,
+    "marketing_spend": 139.28950416770232
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-09-01",
+    "country_code": "AT",
+    "new_customers": 2915.6495191440563,
+    "marketing_spend": 2.6599774778582921
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-09-01",
+    "country_code": "DE",
+    "new_customers": 25699.091039121176,
+    "marketing_spend": 144.09112937548667
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-09-01",
+    "country_code": "GB",
+    "new_customers": 16860.197435792368,
+    "marketing_spend": 486.85279602033927
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-09-01",
+    "country_code": "NO",
+    "new_customers": 1920.9303216249752,
+    "marketing_spend": 2.9660300957024486
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-09-01",
+    "country_code": "SE",
+    "new_customers": 7907.2739471113482,
+    "marketing_spend": 97.647315607180033
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-10-01",
+    "country_code": "AT",
+    "new_customers": 3195.4374501845109,
+    "marketing_spend": 2.5017600405755682
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-10-01",
+    "country_code": "DE",
+    "new_customers": 28165.195234513933,
+    "marketing_spend": 135.52048191146426
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-10-01",
+    "country_code": "GB",
+    "new_customers": 18478.114721982096,
+    "marketing_spend": 457.89442988323674
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-10-01",
+    "country_code": "NO",
+    "new_customers": 2105.2642468212071,
+    "marketing_spend": 2.7896084212515353
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-10-01",
+    "country_code": "SE",
+    "new_customers": 8666.0619301340339,
+    "marketing_spend": 91.839180703216627
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-11-01",
+    "country_code": "AT",
+    "new_customers": 3125.7070628863071,
+    "marketing_spend": 2.6578500195580497
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-11-01",
+    "country_code": "DE",
+    "new_customers": 27550.57829938388,
+    "marketing_spend": 143.97588483987198
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-11-01",
+    "country_code": "GB",
+    "new_customers": 18074.887897426335,
+    "marketing_spend": 486.46340963248008
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-11-01",
+    "country_code": "NO",
+    "new_customers": 2059.3234660722583,
+    "marketing_spend": 2.9636578555619204
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-11-01",
+    "country_code": "SE",
+    "new_customers": 8476.95234368177,
+    "marketing_spend": 97.569216978972051
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-12-01",
+    "country_code": "AT",
+    "new_customers": 3126.0732739494042,
+    "marketing_spend": 2.3867463718516357
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-12-01",
+    "country_code": "DE",
+    "new_customers": 27553.806153550948,
+    "marketing_spend": 129.29018501684803
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-12-01",
+    "country_code": "GB",
+    "new_customers": 18077.00556993343,
+    "marketing_spend": 436.84360269958393
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-12-01",
+    "country_code": "NO",
+    "new_customers": 2059.5647385333687,
+    "marketing_spend": 2.6613614696544108
+  },
+  {
+    "is_forecast": true,
+    "month": "2025-12-01",
+    "country_code": "SE",
+    "new_customers": 8477.9455121608189,
+    "marketing_spend": 87.617048710554741
+  }
+]

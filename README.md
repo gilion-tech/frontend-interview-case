@@ -1,4 +1,4 @@
-# Welcome to this ArK Coding Challenge
+# Welcome to this Gilion Coding Challenge
 
 The aim of this case is to simulate a code review and to discuss some code in an informal setting, not to test specific technologies or syntaxes.
 
@@ -6,7 +6,7 @@ The aim of this case is to simulate a code review and to discuss some code in an
 
 There's two components to the case, one is the server, which you shouldn't have to do anything with, and the other one is the client which is a [Vite](https://vitejs.dev/) project. The client is very bare-bones, by design, we leave it up to you how you want to build it.
 
-The server has two endpoints, `/ads-spend-data` and `/purchase-data`, which queries BigQuery and returns some data.
+The server has one endpoint, `/marketing-vs-new-customer-data`, which returns some data for you to use.
 
 Your assignment is to create React components that fetches the data and visualizes it in a performant, responsive, and preferably beautiful way.
 
@@ -19,9 +19,17 @@ You can install any dependency you want but be aware that we will require you to
 
 You do not have to worry about implementing tests for this case, however, do think about it when implementing your components.
 
-## Pre-requisites
+## Data explanation
 
-A `bigquery_service_account.json` file in the root directory (you should have gotten access to download this file together with the case).
+The dataset given is a time series of new customer and marketing spend. For each data point you are given the following properties.
+
+- is_forecast: Boolean describing if the data is a forecasted value or not
+- month: The date of the data point
+- country_code: The country
+- new_customer: Number of new customers that month
+- marketing_spend: Amount spent on marketing that month. (In euro)
+
+## Pre-requisites
 
 Latest Node LTS version.
 
