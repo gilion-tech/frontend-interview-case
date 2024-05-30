@@ -15,10 +15,6 @@ To get you started, the `DataFetchDemo.tsx` file includes a shell of an example 
 
 Please spend 3-4 hours to building useful functionality for visualizing the data, remember to think about responsiveness and performance. Try to come up with ways of making the data interesting to the user of the website.
 
-You can install any dependency you want but be aware that we will require you to reason about your choices.
-
-You do not have to worry about implementing tests for this case, however, do think about it when implementing your components.
-
 ## Data explanation
 
 The dataset given is a time series of new customer and marketing spend. For each data point you are given the following properties.
@@ -49,6 +45,6 @@ If you rather want to use npm you can run `npm install` and then `npm run server
 
 You're good to go!
 
-When you're done, submit your github repo via email to ArK.
+When you're done, submit your github repo via email to Gilion.
 
 Good luck!
