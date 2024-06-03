@@ -1,5 +1,5 @@
 import express from "express";
-import data from "./data.json" assert { type: "json" };
+import data from "./data.json" with { type: "json" };
 
 const app = express();
 const port = 5001;
