@@ -1,0 +1,4 @@
+# Default owner: the broad tech team. Branch protection on main requires
+# code-owner approval, so this team must be a recognised collaborator
+# (granted via terraform in gilion-tech/terraform → github/repositories).
+* @gilion-tech/tech
